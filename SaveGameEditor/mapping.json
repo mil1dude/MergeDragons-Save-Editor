@@ -1,0 +1,208 @@
+{
+  "file_map": {
+    "CloudState": "Cloud Save State",
+    "_homeStats": "Camp Stats",
+    "Level_Home_stats": "Level Home Stats",
+    "Level_Home": "Camp Level",
+    "_playerData": "Player Data"
+  },
+  "data_map": {
+    "Cloud Save State": {
+      "0": "Enabled",
+      "1": "Backed up subparts",
+      "2": "Savetype provider",
+      "3": "UNKNOWN_{key}",
+      "4": "Backup Token",
+      "5": "UNKNOWN_{key}",
+      "6": "Backup Token",
+      "7": "UNKNOWN_{key}",
+      "8": "User ID",
+      "9": "UNKNOWN_{key}",
+      "10": "UNKNOWN_{key}"
+    },
+    "Camp Stats": {
+        "0": "UNKNOWN_{key}",
+        "1": "Unhealed Land",
+        "2": "Healed Land",
+        "3": "Star Level",
+        "4": "Score",
+        "5": "Rarest Dragon #1",
+        "6": "Rarest Dragon #2",
+        "7": "Rarest Dragon #3",
+        "8": "UNKNOWN_{key}",
+        "9": "UNKNOWN_{key}",
+        "10": "Best Dragon Home"
+    },
+    "Level Home Stats": {
+        "0": "UNKNOWN_{key}",
+        "1": "UNKNOWN_{key}",
+        "2": "UNKNOWN_{key}",
+        "3": "UNKNOWN_{key}",
+        "4": "UNKNOWN_{key}",
+        "5": "UNKNOWN_{key}",
+        "6": "UNKNOWN_{key}",
+        "7": "UNKNOWN_{key}",
+        "10": "UNKNOWN_{key}"
+    },
+    "Camp Level": {
+        "0": "Score",
+        "1": "UNKNOWN_{key}",
+        "2": "Entities",
+        "3": "Spawnpoint",
+        "4": "UNKNOWN_{key}",
+        "5": "UNKNOWN_{key}",
+        "7": "UNKNOWN_{key}",
+        "8": "UNKNOWN_{key}",
+        "9": "UNKNOWN_{key}",
+        "10": "UNKNOWN_{key}",
+        "11": "UNKNOWN_{key}",
+        "12": "Last Time Joined",
+        "13": "UNKNOWN_{key}",
+        "14": "UNKNOWN_{key}",
+        "15": "UNKNOWN_{key}"
+    },
+    "Player Data": {
+        "0": "UNKNOWN_{key}",
+        "1": "UNKNOWN_{key}",
+        "2": "UNKNOWN_{key}",
+        "4": "UNKNOWN_{key}",
+        "5": "UNKNOWN_{key}",
+        "6": "UNKNOWN_{key}",
+        "7": "UNKNOWN_{key}",
+        "66": "UNKNOWN_{key}",
+        "8": "UNKNOWN_{key}",
+        "9": "UNKNOWN_{key}",
+        "10": "UNKNOWN_{key}",
+        "11": "UNKNOWN_{key}",
+        "67": "UNKNOWN_{key}",
+        "81": "UNKNOWN_{key}",
+        "13": "UNKNOWN_{key}",
+        "15": "UNKNOWN_{key}",
+        "18": "Dragon Grass Settings",
+        "21": "UNKNOWN_{key}",
+        "22": "UNKNOWN_{key}",
+        "23": "UNKNOWN_{key}",
+        "24": "UNKNOWN_{key}",
+        "25": "UNKNOWN_{key}",
+        "26": "UNKNOWN_{key}",
+        "27": "UNKNOWN_{key}",
+        "28": "UNKNOWN_{key}",
+        "29": "UNKNOWN_{key}",
+        "30": "UNKNOWN_{key}",
+        "31": "UNKNOWN_{key}",
+        "32": {
+          "name": "Level Rewars Chests",
+          "map": {
+            "0": {
+              "name": "Chest Slot #1",
+              "map": {
+                "0": "Chest Type",
+                "1": "UNKNOWN_{key}",
+                "2": "UNKNOWN_{key}"
+              }
+            },
+            "1": {
+              "name": "Chest Slot #2",
+              "map": {
+                "0": "Chest Type",
+                "1": "UNKNOWN_{key}",
+                "2": "UNKNOWN_{key}"
+              }
+            },
+            "2": {
+              "name": "Chest Slot #3",
+              "map": {
+                "0": "Chest Type",
+                "1": "UNKNOWN_{key}",
+                "2": "UNKNOWN_{key}"
+              }
+            }
+          }
+        },
+        "34": "UNKNOWN_{key}",
+        "44": "UNKNOWN_{key}",
+        "45": "UNKNOWN_{key}",
+        "47": "UNKNOWN_{key}",
+        "48": "UNKNOWN_{key}",
+        "49": "UNKNOWN_{key}",
+        "50": "UNKNOWN_{key}",
+        "51": "UNKNOWN_{key}",
+        "52": "UNKNOWN_{key}",
+        "53": "UNKNOWN_{key}",
+        "54": "UNKNOWN_{key}",
+        "58": "UNKNOWN_{key}",
+        "59": "UNKNOWN_{key}",
+        "64": {
+          "name": "Level Rewards",
+          "map": {
+            "0": "Reward categories",
+            "1": "Applied levels",
+            "2": "Shops"
+            }
+          },
+        "70": "UNKNOWN_{key}",
+        "62": "Event Tpye",
+        "63": "Live Event Type",
+        "68": "UNKNOWN_{key}",
+        "73": "UNKNOWN_{key}",
+        "75": "UNKNOWN_{key}",
+        "74": "UNKNOWN_{key}",
+        "76": "UNKNOWN_{key}",
+        "77": "UNKNOWN_{key}",
+        "78": "Next Event & Date",
+        "80": {
+          "name": "Star Quests",
+          "map": {
+            "0": "General Infos",
+            "1": {
+              "name": "Quests",
+              "map": {
+                "*": {
+                  "name": "Quest Category #{key}",
+                  "map": {
+                    "*": {
+                      "name": "Quest #{key}",
+                      "map": {
+                        "0": "UNKNOWN_{key}",
+                        "1": "Quest Location",
+                        "2": "UNKNOWN_{key}",
+                        "3": "Item Level",
+                        "1000": "Location",
+                        "1001": "UNKNOWN_{key}",
+                        "1002": "UNKNOWN_{key}",
+                        "1003": "Interaction Item",
+                        "1004": "UNKNOWN_{key}",
+                        "1005": "UNKNOWN_{key}",
+                        "1006": "UNKNOWN_{key}",
+                        "1007": "UNKNOWN_{key}",
+                        "1008": "Reward",
+                        "1009": "UNKNOWN_{key}",
+                        "1010": "Star Quest Pool",
+                        "1011": "Star Quest Action",
+                        "1012": "Action Category",
+                        "1013": "Star Quest Target",
+                        "1014": "Item type",
+                        "1015": "Category Root",
+                        "1016": "Level",
+                        "1017": "UNKNOWN_{key}",
+                        "1018": "UNKNOWN_{key}",
+                        "1019": "UNKNOWN_{key}"
+                      }
+                    }
+                  }
+                }
+              }
+            },
+            "2": "Items",
+            "3": "UNKNOWN_{key}",
+            "4": "Last fulfilled quest",
+            "5": "UNKNOWN_{key}",
+            "6": "Event Quests",
+            "7": "UNKNOWN_{key}"
+          }
+        },
+        "84": "UNKNOWN_{key}",
+        "86": "UNKNOWN_{key}"
+    }
+  }
+}
