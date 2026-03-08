@@ -261,7 +261,12 @@ def cleanup():
         cf.unlink()
 
 def main():
-    print("Starte Injection...")
+    print("Starting Injection...")
+    if (INPUT_APK.exists()):
+        print("APK already exists, skipping extraction")
+    else:
+        print("Extracting APK...")
+        run(["mergedragons.exe"])
     print("Cleanup...")
     cleanup()
     print("Compile Java...")
